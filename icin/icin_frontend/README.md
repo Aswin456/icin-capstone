@@ -1,2 +1,2 @@
-# ShubhamKumar_Phase6_Akash_Frontend
+# Frontend
 ICIN BANK Capstone project Frontend
